@@ -9,6 +9,11 @@ body {
 }
 
 
+/* change the background color */
+.navbar-custom {
+  background-color: #4433cc;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
