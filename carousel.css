@@ -8,11 +8,21 @@ body {
   color: #5a5a5a;
 }
 
+/* This code aligns the nav bar to the right */
+/* .navbar-nav{
+  float: right;
+} */
 
 /* change the background color */
 .navbar-custom {
   background-color: #025A6F;
 }
+
+/* Right-aligned section inside the top navigation */
+/* .nav-link{
+  float: right;
+} */
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
